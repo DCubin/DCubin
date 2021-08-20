@@ -9,7 +9,7 @@
         "marker-symbol": "",
         "name": "Thermowhite GmbH",
         "street": "Pyhrn 3",
-        "city": "Spital am Pyhrn",
+        "city": "4582 Spital am Pyhrn",
         "link": "https://thermowhite.at"
       },
       "geometry": {
@@ -17,6 +17,25 @@
         "coordinates": [
           14.337839484214783,
           47.64881680813097
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#a1a1a1",
+        "marker-size": "large",
+        "marker-symbol": "",
+        "name": "ThermoWhite Bodenfachzentrum",
+        "street": "Michelpark 1",
+        "city": "4563 Micheldorf",
+        "link": "https://bodenfachzentrum.at"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.12893831729889,
+          47.87597790450402
         ]
       }
     }
