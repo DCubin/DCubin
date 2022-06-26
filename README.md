@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @DCubin from Austria (yes, Alps ... no Kangaroos)
+- 👋 Hi, I’m Markus Ziegler from Austria (yes, Alps ... no Kangaroos)
 - 👀 I’m interested in HTML, CSS, JS, PHP
-- 🌱 I’m currently learning CSS, JS 
-- 💞️ I’m looking to collaborate on <a href="https://oxygenbuilder.com" >Oxygenbuilder</a> Stuff (Wordpress)
+- 🌱 I’m currently learning CSS, JS, PHP 
 - 📫 How to reach me: <a href="https://twitter.com/der_cube" >Twitter</a>
 
 <!---
