@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Markus Ziegler from Austria (yes, Alps ... no Kangaroos)
-- 👀 I’m interested in HTML, CSS, JS, PHP
-- 🌱 I’m currently learning CSS, JS, PHP 
+- 👋 Hi, I’m Markus Ziegler from Austria (yes, Europe and Alps ... no Kangaroos)
+- 👀 I’m interested in HTML, CSS, JS, PHP, Python, ...
+- 🌱 I’m currently learning CSS, SCSS, JS, PHP, Python ... 
 
 <!---
 DCubin/DCubin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
